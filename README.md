@@ -1,4 +1,4 @@
-# Optic-Odyssey
+# Optic Odyssey
 
 ## How to install and run
 
